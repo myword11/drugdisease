@@ -1,2 +1,2 @@
-# drugdisease
-毕设项目
+Prediction of drug-disease interactions based on F-test and KSU resampling techniques.
+
