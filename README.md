@@ -32,6 +32,9 @@ To facilitate online prediction, we have developed an online predictor based on 
 
 How to Use Predictor
 --
-首先点击界面上方的“选择模型”按钮，选择本地的模型文件，文件格式为“pkl”。
+First, click the "Select Model" button at the top of the interface and choose the local model file. The file format should be "pkl".
 ![图片](https://github.com/user-attachments/assets/2194cc80-ec8f-445c-9cb5-0c4b1635cf0b)
+After selecting the model file, choose the prediction file. Click the "Select Data" button at the top of the interface and choose the local data file. The file format should be "csv".
+![图片](https://github.com/user-attachments/assets/85a7bb53-d827-4a25-8cde-f69dd6a4509f)
+
 
